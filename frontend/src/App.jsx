@@ -13,6 +13,7 @@ function App() {
     <Router>
       <Header/>
       <SignIn/>
+      {/* <Explore/> */}
       <main>
         <Routes>
         <Route path="/" element={<Home />} />
