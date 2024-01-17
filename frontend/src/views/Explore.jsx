@@ -6,9 +6,9 @@ export function Explore() {
     <div className="explore">
       <h1>Explore Page</h1>
       <div className="explore-header">
-        <button className="clear">Clear Filter</button>
+        <button className="clear options-btn">Clear Filter</button>
         <CustomSelect />
-        <select className="order-delivery-time">
+        <select className="order-delivery-time options-btn">
           <option value="express">Express 24 hours</option>
           <option value="upto3days">Up to 3 days</option>
           <option value="upto7days">Up to 7 days</option>

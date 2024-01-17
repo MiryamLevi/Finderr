@@ -2,3 +2,21 @@
     border-width: 2px;
     border-color: black;
 }
+
+.explore .options-btn {
+    width: 112px;
+    height: 40px;
+    border: 1px solid #dadbdd;
+    background-color: #fff;
+    margin-top: 1.1875em;
+    margin-inline-end: 0.625em;
+    border-radius: 4px;
+    color: #404145;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.explore-header {
+    display: flex;
+    flex-direction: row;
+}

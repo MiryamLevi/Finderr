@@ -18,7 +18,7 @@ const CustomSelect = () => {
   return (
     <div >
       <div>
-        <button onClick={handleToggle}>Budget</button>
+        <button className="options-btn" onClick={handleToggle}>Budget</button>
       </div>
 
       {isOpen && (
