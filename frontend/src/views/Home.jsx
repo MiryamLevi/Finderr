@@ -1,3 +1,3 @@
 export function Home() {
-  return <h1>Home</h1>;
+  return <section className="home main-layout"></section>
 }

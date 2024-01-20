@@ -1,0 +1,31 @@
+// @font-face {
+//     font-family: Macan-light;
+//     src: url(@/assets/fonts/Macan/macan-light.ttf);
+// }
+
+// @font-face {
+//     font-family: Macan-Regular;
+//     src: url(../../assets/fonts/macan-regular.woff2);
+// }
+
+// @font-face {
+//     font-family: Macan-Bold;
+//     src: url(@/assets/fonts/Macan/macan-bold.ttf);
+// }
+
+@font-face {
+    font-family: macanThin;
+    src: url(@/src/assets/fonts/macan/macan-thin.woff2);
+  }
+  @font-face {
+    font-family: macanRegular;
+    src: url(../../assets/fonts/macan/macan-regular.woff2);
+  }
+  @font-face {
+    font-family: macanSemibold;
+    src: url(@/src/assets/fonts/macan/macan-semibold.woff2);
+  }
+  @font-face {
+    font-family: macanBold;
+    src: url(@/src/assets/fonts/macan/macan-bold.woff2);
+  }

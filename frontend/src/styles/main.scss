@@ -1,3 +1,13 @@
 // basics
 @import 'basics/colors';
-@import 'views/header';
+@import 'basics/base';
+@import 'basics/typography';
+@import 'basics/layout';
+@import 'basics/variables';
+
+// views
+// @import 'views/header';
+
+// cmps 
+@import 'cmps/header';
+@import 'cmps/main-header';
