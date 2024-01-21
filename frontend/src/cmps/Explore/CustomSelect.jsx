@@ -2,16 +2,12 @@ import React, { useState } from 'react';
 
 const CustomSelect = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const [selectedOption, setSelectedOption] = useState(null);
-
-  const options = ['Option 1', 'Option 2', 'Option 3'];
 
   const handleToggle = () => {
     setIsOpen(!isOpen);
   };
 
   const handleOptionClick = (option) => {
-    setSelectedOption(option);
     setIsOpen(false);
   };
 
