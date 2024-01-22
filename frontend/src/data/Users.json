@@ -1,0 +1,242 @@
+[
+    {
+        "_id": "u001",
+        "fullName": "Jamal Fullom",
+        "imgUrl": "http://dummyimage.com/159x100.png/5fa2dd/ffffff",
+        "username": "jfullom0",
+        "password": "oX6$pH3I3BKjb",
+        "level": "premium",
+        "reviews": [
+            {
+                "id": "2468135790",
+                "gig_id": "9753102468",
+                "txt": "Courteous and prompt",
+                "rate": 3,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Raymund Gullam",
+                        "imgUrl": "http://dummyimage.com/182x100.png/cc0000/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u002",
+        "fullName": "Sumner Van Hove",
+        "imgUrl": "http://dummyimage.com/148x100.png/ff4444/ffffff",
+        "username": "svan1",
+        "password": "gR4&m<4Gg'B8LJ",
+        "level": "basic",
+        "reviews": [
+            {
+                "id": "9876543210",
+                "gig_id": "5432109876",
+                "txt": "Cordial and hasty",
+                "rate": 5,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Malvina Lathwood",
+                        "imgUrl": "http://dummyimage.com/173x100.png/ff4444/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u003",
+        "fullName": "Delmore Andretti",
+        "imgUrl": "http://dummyimage.com/222x100.png/cc0000/ffffff",
+        "username": "dandretti2",
+        "password": "rD3!{YZmPAz",
+        "level": "premium",
+        "reviews": [
+            {
+                "id": "0123456789",
+                "gig_id": "8642097531",
+                "txt": "Pleasant and efficient",
+                "rate": 4,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Natalee Gladdis",
+                        "imgUrl": "http://dummyimage.com/210x100.png/5fa2dd/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u004",
+        "fullName": "Ario Skpsey",
+        "imgUrl": "http://dummyimage.com/231x100.png/dddddd/000000",
+        "username": "askpsey3",
+        "password": "sQ5?+'|Vkg",
+        "level": "basic",
+        "reviews": [
+            {
+                "id": "9876543210",
+                "gig_id": "2468135790",
+                "txt": "Welcoming and agile",
+                "rate": 5,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Maddie Maith",
+                        "imgUrl": "http://dummyimage.com/104x100.png/5fa2dd/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u005",
+        "fullName": "Thomasina Huff",
+        "imgUrl": "http://dummyimage.com/180x100.png/ff4444/ffffff",
+        "username": "thuff4",
+        "password": "vO1{{$LHpBO1",
+        "level": "basic",
+        "reviews": [
+            {
+                "id": "9753102468",
+                "gig_id": "8642097531",
+                "txt": "Polite and speedy",
+                "rate": 5,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Lilllie Parsonson",
+                        "imgUrl": "http://dummyimage.com/192x100.png/5fa2dd/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u006",
+        "fullName": "Drona Sterte",
+        "imgUrl": "http://dummyimage.com/247x100.png/dddddd/000000",
+        "username": "dsterte5",
+        "password": "uM3!adGNXrS",
+        "level": "basic",
+        "reviews": [
+            {
+                "id": "8642097531",
+                "gig_id": "8642097531",
+                "txt": "Friendly and efficient",
+                "rate": 3,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Merrill Harford",
+                        "imgUrl": "http://dummyimage.com/148x100.png/5fa2dd/ffffff"
+                    },
+                    {
+                        "user_id": "u002",
+                        "fullName": "Tani Ghidotti",
+                        "imgUrl": "http://dummyimage.com/122x100.png/dddddd/000000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u007",
+        "fullName": "Adda Reader",
+        "imgUrl": "http://dummyimage.com/179x100.png/ff4444/ffffff",
+        "username": "areader6",
+        "password": "aS9>NyO&'>2K_",
+        "level": "premium",
+        "reviews": [
+            {
+                "id": "2468135790",
+                "gig_id": "0987654321",
+                "txt": "Friendly and efficient",
+                "rate": 3,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Ailbert Buckleigh",
+                        "imgUrl": "http://dummyimage.com/210x100.png/ff4444/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u008",
+        "fullName": "Hugues Morgan",
+        "imgUrl": "http://dummyimage.com/214x100.png/ff4444/ffffff",
+        "username": "hmorgan7",
+        "password": "lP1'a,vMz",
+        "level": "basic",
+        "reviews": [
+            {
+                "id": "9876543210",
+                "gig_id": "5432109876",
+                "txt": "Helpful and quick",
+                "rate": 5,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Terri Rabbet",
+                        "imgUrl": "http://dummyimage.com/190x100.png/dddddd/000000"
+                    },
+                    {
+                        "user_id": "u002",
+                        "fullName": "Dania Guarnier",
+                        "imgUrl": "http://dummyimage.com/112x100.png/cc0000/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u009",
+        "fullName": "Thaxter Humfrey",
+        "imgUrl": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+        "username": "thumfrey8",
+        "password": "vB4&vK5X",
+        "level": "premium",
+        "reviews": [
+            {
+                "id": "0987654321",
+                "gig_id": "2468135790",
+                "txt": "Amiable and rapid",
+                "rate": 4,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Jesus O'Curneen",
+                        "imgUrl": "http://dummyimage.com/230x100.png/5fa2dd/ffffff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "_id": "u0010",
+        "fullName": "Granger Albutt",
+        "imgUrl": "http://dummyimage.com/144x100.png/ff4444/ffffff",
+        "username": "galbutt9",
+        "password": "pF0\"\\A>ofn0OZk,=",
+        "level": "premium",
+        "reviews": [
+            {
+                "id": "3698521470",
+                "gig_id": "9876543210",
+                "txt": "Amiable and rapid",
+                "rate": 3,
+                "by": [
+                    {
+                        "user_id": "u001",
+                        "fullName": "Dorena Ord",
+                        "imgUrl": "http://dummyimage.com/175x100.png/cc0000/ffffff"
+                    }
+                ]
+            }
+        ]
+    }
+]
