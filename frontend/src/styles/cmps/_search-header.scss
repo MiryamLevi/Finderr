@@ -1,4 +1,5 @@
 .app-header{
+
     form{
         width: 100%;
         display: flex;
@@ -18,6 +19,12 @@
                 height: 16px;
                 width: 16px;
             }
+        }
+    }
+
+    .header-link {
+        :hover {
+            color: $little_elements_green;
         }
     }
 }
