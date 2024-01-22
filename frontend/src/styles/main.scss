@@ -1,4 +1,19 @@
 // basics
 @import 'basics/colors';
-@import 'basics/basics';
-@import 'views/explore';
+@import 'basics/base';
+@import 'basics/typography';
+@import 'basics/variables';
+@import 'basics/mixins';
+@import 'basics/layout';
+@import 'basics/helpers';
+
+// views
+@import 'views/home';
+
+// cmps 
+@import 'cmps/header';
+@import 'cmps/main-header';
+@import 'cmps/search-header';
+@import 'cmps/footer';
+// @import 'views/header';
+// @import 'views/explore';

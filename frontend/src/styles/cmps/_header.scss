@@ -1,0 +1,42 @@
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+
+    .logo {
+        margin: 0 32px 0 0;
+        font-size: 2em;
+    }
+
+    ul {
+        display: flex;
+        list-style: none;
+        li {
+            padding-right: 24px;
+        }
+        li:nth-last-child(-n + 1) {
+            padding: 0;
+        }
+    }
+
+    @include for-mobile-layout {
+        height: 70px;
+        .search-form {
+            display: none;
+        }
+    }
+    @include for-narrow-layout {
+        button {
+            display: none;
+        }
+    }
+    @include for-normal-layout {
+        button {
+            display: inline;
+        }
+    }
+//     @include for-wide-layout {
+//     }
+// 
+}

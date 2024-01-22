@@ -1,30 +1,29 @@
-import { Route, HashRouter as Router, Routes } from 'react-router-dom'
-import { Home } from './views/Home';
-import { Explore } from './views/Explore';
-import { Details } from './views/Details';
-import { Header } from './cmps/Header';
-import { Footer } from './cmps/Footer';
-import { SellerRegister } from './views/SellerRegister';
-import { SignIn } from './cmps/SignIn';
+import { Route, HashRouter as Router, Routes } from "react-router-dom"
+import { Home } from "./views/Home"
+import { Explore } from "./views/Explore"
+import { Details } from "./views/Details"
+import { MainHeader } from "./cmps/header/MainHeader"
+import { Footer } from "./cmps/Footer"
+import { SellerRegister } from "./views/SellerRegister"
+import { SignIn } from "./cmps/SignIn"
 
 function App() {
-
   return (
     <Router>
-      <Header/>
-      <SignIn/>
-      <Explore/>
-      <main>
+      {/* <Explore /> */}
+      <main className="main-layout">
+        <MainHeader />
         <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/explore" element={<Explore />} />
-        <Route path="/gig/:gigId" element={<Details />} />       
-        <Route path="/seller/register" element={<SellerRegister />} />       
+          <Route path="/" element={<Home />} />
+          <Route path="/explore" element={<Explore />} />
+          <Route path="/gig/:gigId" element={<Details />} />
+          <Route path="/seller/register" element={<SellerRegister />} />
         </Routes>
+        <Footer />
+        <SignIn />
       </main>
-      <Footer/>
-  </Router>
+    </Router>
   )
 }
 
-export default App;
+export default App
