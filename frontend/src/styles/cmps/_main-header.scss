@@ -1,8 +1,16 @@
-.main-header{
-    header{
-        border-bottom: 1px solid #e4e5e7
+.main-header {
+    header {
+        border-bottom: 1px solid #e4e5e7;
     }
-    .nav-header{
-    border-bottom: 1px solid #e4e5e7
-}
+    .nav-header {
+        border-bottom: 1px solid #e4e5e7;
+    }
+    @include for-mobile-layout {
+        header {
+            border: none;
+        }
+        .nav-header{
+            display: none;
+        }
+    }
 }
