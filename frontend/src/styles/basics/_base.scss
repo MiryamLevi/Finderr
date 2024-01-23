@@ -13,6 +13,23 @@ button{
     padding: 0;
 }
 
+.main-app {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-app .main-header {
+   height: auto;
+}
+.main-app .main-routes {
+    flex-grow: 1;
+    width: 100%;
+}
+.main-app footer {
+    height: auto;
+}
+
 .logo{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: black;

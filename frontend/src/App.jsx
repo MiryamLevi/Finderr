@@ -11,9 +11,9 @@ function App() {
   return (
     <Router>
       {/* <Explore /> */}
-      <main className="main-layout">
+      <main className="main-app main-layout">
         <MainHeader />
-        <Routes>
+        <Routes className="main-routes">
           <Route path="/" element={<Home />} />
           <Route path="/explore" element={<Explore />} />
           <Route path="/gig/:gigId" element={<Details />} />

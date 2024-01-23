@@ -1,10 +1,11 @@
 .main-layout {
     display: grid;
     grid-template-columns: $layoutPaddingMobile 1fr $layoutPaddingMobile;
-    max-width: 1400px;
+    
 
     >*:not(.full){
         grid-column: 2;
+        max-width: 1400px;
     }
 
     >*.full {
@@ -12,6 +13,9 @@
     }
     
     @include for-narrow-layout {
-        grid-template-columns: $layoutPadding 1fr $layoutPadding;
+        grid-template-columns:
+      minmax($layoutPadding, 1fr)
+      minmax(auto, 1400px)
+      minmax($layoutPadding, 1fr)
     }
 }
