@@ -6,14 +6,12 @@ import { MainHeader } from "./cmps/header/MainHeader";
 import { Footer } from "./cmps/Footer";
 import { SellerRegister } from "./views/SellerRegister";
 import { SignIn } from "./cmps/SignIn";
-import { GigPreview } from "./cmps/GigPreview";
 
 
 // change everywhere the words 'minBatteryStatus' and 'balance' are existed !!!!
 function App() {
   return (
     <Router>
-      {/* <Explore /> */}
       <main className="main-layout">
         <MainHeader />
         <Routes>

@@ -19,16 +19,16 @@ export function Explore() {
         </select>
         <div className="switches">
           <div className="pro-switch">
-            <label class="switch">
+            <label className="switch">
               <input type="checkbox" />
-              <span class="slider round"></span>
+              <span className="slider round"></span>
             </label>
             Pro services
           </div>
           <div className="online-sellers-switch">
-            <label class="switch">
+            <label className="switch">
               <input type="checkbox" />
-              <span class="slider round"></span>
+              <span className="slider round"></span>
             </label>
             Online sellers
           </div>
