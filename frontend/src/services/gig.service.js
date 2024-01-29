@@ -7,27 +7,26 @@ export const gigService = {
     remove,
     getById,
     createGig,
-    getDefaultFilter,
-    getFilterFromParams
+    getDefaultFilter
 }
 
-const STORAGE_KEY = 'robots'
+const STORAGE_KEY = 'gigs'
 
-_createRobots()
+_createGigs()
 
 async function query(filterBy) {
-    let robots = await storageService.query(STORAGE_KEY)
+    let gigs = await storageService.query(STORAGE_KEY)
     if (filterBy) {
         let { minBatteryStatus, model = '', type = '' } = filterBy
         minBatteryStatus = minBatteryStatus || 0
         const regexModelTerm = new RegExp(model, 'i')
-        robots = robots.filter(robot =>
-            regexModelTerm.test(robot.model) &&
-            robot.batteryStatus > minBatteryStatus &&
-            (!type || type === robot.type)
+        gigs = gigs.filter(gig =>
+            regexModelTerm.test(gig.model) &&
+            gig.batteryStatus > minBatteryStatus &&
+            (!type || type === gig.type)
         )
     }
-    return robots
+    return gigs
 }
 
 function getById(id) {
@@ -38,56 +37,32 @@ function remove(id) {
     return storageService.remove(STORAGE_KEY, id)
 }
 
-function save(robotToSave) {
-    if (robotToSave.id) {
-        return storageService.put(STORAGE_KEY, robotToSave)
+function save(gigToSave) {
+    if (gigToSave.id) {
+        return storageService.put(STORAGE_KEY, gigToSave)
     } else {
-        robotToSave.isOn = false
-        return storageService.post(STORAGE_KEY, robotToSave)
+        return storageService.post(STORAGE_KEY, gigToSave)
     }
 }
 
-function createGig() {
+function createGig(title = '', price = '', owner = {}, daysToMake = '', description = '', imgUrl = '',
+    tags = [], likedByUsers = []) {
     return {
-        id: utilService.makeId,
-        titel: '',
-        category: '',
-        price: 0,
-        daysToMake: 0,
-        description: '',
-        imgUrl: '',
-        tags: [],
+        title, price, owner, daysToMake, description, imgUrl,
+        tags, likedByUsers
     }
 }
 
 function getDefaultFilter() {
     return {
-        type: '',
-        minBatteryStatus: 0,
-        maxBattery: '',
-        model: ''
+        tags: []
     }
 }
 
-function getFilterFromParams(searchParams) {
-    const defaultFilter = getDefaultFilter()
-    const filterBy = {}
-    for (const field in defaultFilter) {
-        filterBy[field] = searchParams.get(field) || defaultFilter[field]
-    }
-    return filterBy
-}
-
-
-function _createRobots() {
-    let robots = utilService.loadFromStorage(STORAGE_KEY)
-    if (!robots || !robots.length) {
-        robots = [
-            { id: 'r2', model: 'Salad-O-Matic', batteryStatus: 80, type: 'Cooking' },
-            { id: 'r3', model: 'Dusty', batteryStatus: 100, type: 'Cleaning' },
-            { id: 'r1', model: 'Dominique Sote', batteryStatus: 100, type: 'Pleasure' },
-            { id: 'r4', model: 'DevTron', batteryStatus: 40, type: 'Office' }
-        ]
-        utilService.saveToStorage(STORAGE_KEY, robots)
+function _createGigs() {
+    let gigs = utilService.loadFromStorage(STORAGE_KEY)
+    if (!gigs || !gigs.length) {
+        gigs = require('../data/Gigs.json')
+        utilService.saveToStorage(STORAGE_KEY, gigs)
     }
 }
