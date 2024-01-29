@@ -6,6 +6,7 @@ import { MainHeader } from "./cmps/header/MainHeader"
 import { Footer } from "./cmps/Footer"
 import { SellerRegister } from "./views/SellerRegister"
 import { SignIn } from "./cmps/SignIn"
+import { GigEdit } from "./views/GigEdit"
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/explore" element={<Explore />} />
           <Route path="/gig/:gigId" element={<Details />} />
           <Route path="/seller/register" element={<SellerRegister />} />
+          <Route path="/edit" element={<GigEdit />} />
         </Routes>
         <Footer />
         <SignIn />

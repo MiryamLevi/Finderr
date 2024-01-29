@@ -28,7 +28,7 @@ function loadFromStorage(key, defaultValue = null) {
 function animateCSS(el, animation, isRemoveClass = true) {
 
     const prefix = 'animate__'
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
         const animationName = `${prefix}${animation}`
         el.classList.add(`${prefix}animated`, animationName)
 
