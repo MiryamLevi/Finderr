@@ -1,5 +1,5 @@
 import { gigService } from "../../services/gig.service";
-import { ADD_GIG, REMOVE_GIG, SET_FILTER_BY, SET_IS_LOADING, SET_GIGS, UNDO_CHANGES, UPDATE_GIG } from "../reducers/gig.reducer";
+import { ADD_GIG, REMOVE_GIG, SET_FILTER_BY, SET_IS_LOADING, SET_GIGS, UNDO_CHANGES, UPDATE_GIG, GET_GIGS_COUNT } from "../reducers/gig.reducer";
 import { store } from "../store";
 
 
@@ -66,3 +66,8 @@ export function setIsLoading(isLoading) {
     store.dispatch({ type: 'SET_IS_LOADING', isLoading })
 }
 
+export function getGigsCount() {
+    store.dispatch({ type: GET_GIGS_COUNT });
+    const gigsCount = store.getState().gigModule.gigs.length;
+    return gigsCount;
+}

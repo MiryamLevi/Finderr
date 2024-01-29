@@ -1,8 +1,13 @@
+import { useSelector } from "react-redux";
 import CustomSelect from "../cmps/Explore/CustomSelect";
 import { GigPreview } from "../cmps/GigPreview";
+import { getGigsCount } from "../store/actions/gig.actions";
 import { GigIndex } from "./GigIndex";
 
 export function Explore() {
+ 
+  //const gigsCount = useSelector(storeState => storeState.gigModule.gigs.length)
+
   return (
     <div className="explore">
       <h1>Explore Page</h1>
@@ -35,7 +40,7 @@ export function Explore() {
         </div>
       </div>
       <div className="explore-main">
-        <p>37 Services available</p>
+        {/* <p>{gigsCount} Services available</p> */}
         <label>
           Sort By{" "}
           <select>
@@ -43,7 +48,7 @@ export function Explore() {
             <option value="level">Seller Level</option>
           </select>
         </label>
-        {/* <GigPreview
+         <GigPreview
           gig={{
             id: 1,
             imgUrl:
@@ -56,7 +61,7 @@ export function Explore() {
             title: "I will do timeless logo design with copyrights",
           }}
         />
-        <GigPreview
+        {/*<GigPreview
           gig={{
             id: 2,
             imgUrl:
@@ -69,7 +74,7 @@ export function Explore() {
             title: "I will do timeless logo design with copyrights",
           }}
         /> */}
-        <GigIndex />
+        {/* <GigIndex /> */}
         <div className="pages">
           <button>&lt;</button>
           <button>1</button>

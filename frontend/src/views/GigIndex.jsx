@@ -51,6 +51,7 @@ export function GigIndex() {
     }
 
     if (!gigs || isLoading) return <div>Loading..</div>
+    console.log("gigs in GigIndex: ", gigs);
     const { type, model, minBatteryStatus } = filterBy
     return <section className="gig-index">
         {/* <GigFilter onSetFilter={onSetFilter} filterBy={{ model, minBatteryStatus }} /> */}

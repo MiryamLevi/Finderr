@@ -1,18 +1,31 @@
 .gig-preview {
+  align-items: center;
+  box-sizing: border-box;
+  color-scheme: light;
+  display: flex;
+  font-family: Macan;
+  font-size: 14px;
+  // height: 47.25px;
+  list-style-type: none;
+  margin-block-end: 10.5px;
+  margin-bottom :10.5px;
+  width: 277.6px;
+
   width: fit-content;
   background: #e96b9509;
   background-repeat: no-repeat;
   box-shadow: 0 0 11px #0000002b;
   padding: 15px;
-  display: flex;
+  // display: flex;
   flex-direction: column;
   overflow: hidden;
   border-radius: 5px;
   cursor: pointer;
-  font: 400 16px/24px Macan, Helvetica Neue, Helvetica, Arial, sans-serif;
 
   .mini-user img {
     border-radius: 50%;
+    height: 171.55px;
+width:277.6px;
   }
 
   h4 {

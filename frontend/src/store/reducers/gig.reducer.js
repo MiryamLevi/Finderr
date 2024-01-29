@@ -7,6 +7,8 @@ export const REMOVE_GIG = 'REMOVE_GIG'
 export const SET_FILTER_BY = 'SET_FILTER_BY'
 export const UNDO_CHANGES = 'UNDO_CHANGES'
 export const SET_IS_LOADING = 'SET_IS_LOADING'
+export const GET_GIGS_COUNT = 'GET_GIGS_COUNT'
+
 
 const initialState = {
     gigs: null,
@@ -44,7 +46,7 @@ export function gigReducer(state = initialState, action = {}) {
                 ...state,
                 filterBy: { ...action.filterBy }
             }
-        case 'SET_IS_LOADING':
+        case SET_IS_LOADING:
             return {
                 ...state,
                 isLoading: action.isLoading

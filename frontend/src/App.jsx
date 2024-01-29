@@ -6,7 +6,7 @@ import { MainHeader } from "./cmps/header/MainHeader";
 import { Footer } from "./cmps/Footer";
 import { SellerRegister } from "./views/SellerRegister";
 import { SignIn } from "./cmps/SignIn";
-
+import { GigIndex } from "./views/GigIndex";
 
 // change everywhere the words 'minBatteryStatus' and 'balance' are existed !!!!
 function App() {
@@ -20,7 +20,7 @@ function App() {
           <Route path="/gig/:gigId" element={<Details />} />
           <Route path="/seller/register" element={<SellerRegister />} />
         </Routes>
-
+        <GigIndex />
         <Footer />
         <SignIn />
       </main>
