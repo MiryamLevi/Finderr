@@ -1,6 +1,5 @@
 import { storageService } from './async-storage.service.js'
 import { utilService } from './util.service.js'
-
 export const gigService = {
     query,
     save,
@@ -38,13 +37,15 @@ function remove(id) {
     return storageService.remove(STORAGE_KEY, id)
 }
 
-function save(robotToSave) {
-    if (robotToSave.id) {
-        return storageService.put(STORAGE_KEY, robotToSave)
+function save(gigToSave) {
+    if (gigToSave.id) {
+        return storageService.put(STORAGE_KEY, gigToSave)
     } else {
-        robotToSave.isOn = false
-        return storageService.post(STORAGE_KEY, robotToSave)
+        gigToSave.isOn = false
+        return storageService.post(STORAGE_KEY, gigToSave)
     }
+    
+
 }
 
 function createGig() {

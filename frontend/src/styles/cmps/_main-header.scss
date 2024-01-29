@@ -1,9 +1,45 @@
 .main-header {
-    position: fixed;
-    z-index: 200;
-    width: 100%;
-    header {
-        border-bottom: 1px solid #e4e5e7;
+    #headerScroll{
+        height: 0;
+    }
+    #navScroll{
+        height: 0;
+        position: relative;
+        top: 100px;
+    }
+    .home{
+        position: fixed;
+        z-index: 200;
+        width: 100%;
+        border: none;
+        header{
+            color: $text_logo_color_light;
+        }
+        .nav-header{
+            display: none;
+        }
+        &.header-scrolling {
+            background-color: #fff;
+            header{
+                color: $text_logo_color_dark;
+                border-bottom: 1px solid #e4e5e7;
+            }
+        } 
+        &.nav-scrolling {
+            .nav-header{
+                display: block;
+                background-color: #fff;
+            }
+            form{
+                display: flex;
+            }
+        }
+    }
+    .not-home{
+        position: absolute;
+        header {
+            border-bottom: 1px solid #e4e5e7;
+        }
     }
     .nav-header {
         border-bottom: 1px solid #e4e5e7;
