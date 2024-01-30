@@ -1,5 +1,6 @@
 import { storageService } from './async-storage.service.js'
 import { utilService } from './util.service.js'
+import gigsJson from '../data/Gigs.json';
 
 export const gigService = {
     query,
@@ -62,7 +63,6 @@ function getDefaultFilter() {
 function _createGigs() {
     let gigs = utilService.loadFromStorage(STORAGE_KEY)
     if (!gigs || !gigs.length) {
-        gigs = require('../data/Gigs.json')
-        utilService.saveToStorage(STORAGE_KEY, gigs)
+        utilService.saveToStorage(STORAGE_KEY, gigsJson)
     }
 }
