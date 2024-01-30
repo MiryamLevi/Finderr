@@ -42,8 +42,11 @@ function save(gigToSave) {
     if (gigToSave.id) {
         return storageService.put(STORAGE_KEY, gigToSave)
     } else {
+        gigToSave.isOn = false
         return storageService.post(STORAGE_KEY, gigToSave)
     }
+    
+
 }
 
 function createGig(title = '', price = '', owner = {}, daysToMake = '', description = '', imgUrl = '',
