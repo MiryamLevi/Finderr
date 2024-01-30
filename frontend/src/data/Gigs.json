@@ -1,10 +1,10 @@
 [
     {
-        "_id": "g001",
+        "id": "g001",
         "title": "I will curate a high-quality email list for your business",
         "price": 774.53,
         "owner": {
-            "_id": "u001",
+            "id": "u001",
             "fullName": "Zebadiah Golland",
             "imgUrl": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -30,11 +30,11 @@
         ]
     },
     {
-        "_id": "g002",
+        "id": "g002",
         "title": "I will create an effective email marketing strategy",
         "price": 865.86,
         "owner": {
-            "_id": "u002",
+            "id": "u002",
             "fullName": "Randene Razoux",
             "imgUrl": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -57,11 +57,11 @@
         ]
     },
     {
-        "_id": "g003",
+        "id": "g003",
         "title": "I will design a logo that stands out from the competition",
         "price": 972.35,
         "owner": {
-            "_id": "u003",
+            "id": "u003",
             "fullName": "Padriac Messham",
             "imgUrl": "http://dummyimage.com/121x100.png/ff4444/ffffff",
             "level": "basic",
@@ -84,11 +84,11 @@
         ]
     },
     {
-        "_id": "g004",
+        "id": "g004",
         "title": "I will optimize your email list for better engagement",
         "price": 319.62,
         "owner": {
-            "_id": "u004",
+            "id": "u004",
             "fullName": "Caitrin Gislebert",
             "imgUrl": "http://dummyimage.com/192x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -114,11 +114,11 @@
         ]
     },
     {
-        "_id": "g005",
+        "id": "g005",
         "title": "I will design a unique and eye-catching logo",
         "price": 27.91,
         "owner": {
-            "_id": "u005",
+            "id": "u005",
             "fullName": "Drake D'Elias",
             "imgUrl": "http://dummyimage.com/203x100.png/dddddd/000000",
             "level": "basic",
@@ -137,11 +137,11 @@
         ]
     },
     {
-        "_id": "g006",
+        "id": "g006",
         "title": "I will create a stunning logo design",
         "price": 264.36,
         "owner": {
-            "_id": "u006",
+            "id": "u006",
             "fullName": "Teresina Leele",
             "imgUrl": "http://dummyimage.com/201x100.png/cc0000/ffffff",
             "level": "basic",
@@ -159,11 +159,11 @@
         ]
     },
     {
-        "_id": "g007",
+        "id": "g007",
         "title": "I will develop a professional email marketing campaign",
         "price": 36.21,
         "owner": {
-            "_id": "u007",
+            "id": "u007",
             "fullName": "Benedikt Baylis",
             "imgUrl": "http://dummyimage.com/178x100.png/ff4444/ffffff",
             "level": "basic",
@@ -186,11 +186,11 @@
         ]
     },
     {
-        "_id": "g008",
+        "id": "g008",
         "title": "I will provide a custom logo design service",
         "price": 343.61,
         "owner": {
-            "_id": "u008",
+            "id": "u008",
             "fullName": "Joelle Brimham",
             "imgUrl": "http://dummyimage.com/118x100.png/cc0000/ffffff",
             "level": "basic",
@@ -210,11 +210,11 @@
         ]
     },
     {
-        "_id": "g009",
+        "id": "g009",
         "title": "I will design a unique and eye-catching logo",
         "price": 203.14,
         "owner": {
-            "_id": "u009",
+            "id": "u009",
             "fullName": "Renaldo Weightman",
             "imgUrl": "http://dummyimage.com/141x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -240,11 +240,11 @@
         ]
     },
     {
-        "_id": "g0010",
+        "id": "g0010",
         "title": "I will create a stunning logo design",
         "price": 171.5,
         "owner": {
-            "_id": "u0010",
+            "id": "u0010",
             "fullName": "Giuditta Pentelow",
             "imgUrl": "http://dummyimage.com/172x100.png/5fa2dd/ffffff",
             "level": "premium",
@@ -261,11 +261,11 @@
         ]
     },
     {
-        "_id": "g0011",
+        "id": "g0011",
         "title": "I will create a stunning logo design",
         "price": 210.96,
         "owner": {
-            "_id": "u0011",
+            "id": "u0011",
             "fullName": "Ava Fundell",
             "imgUrl": "http://dummyimage.com/229x100.png/dddddd/000000",
             "level": "premium",
@@ -284,11 +284,11 @@
         ]
     },
     {
-        "_id": "g0012",
+        "id": "g0012",
         "title": "I will provide a custom logo design service",
         "price": 597.22,
         "owner": {
-            "_id": "u0012",
+            "id": "u0012",
             "fullName": "Doug Pellatt",
             "imgUrl": "http://dummyimage.com/156x100.png/dddddd/000000",
             "level": "basic",
@@ -308,11 +308,11 @@
         ]
     },
     {
-        "_id": "g0013",
+        "id": "g0013",
         "title": "I will provide a custom logo design service",
         "price": 209.1,
         "owner": {
-            "_id": "u0013",
+            "id": "u0013",
             "fullName": "Jaynell Wesgate",
             "imgUrl": "http://dummyimage.com/135x100.png/dddddd/000000",
             "level": "premium",
@@ -332,11 +332,11 @@
         ]
     },
     {
-        "_id": "g0014",
+        "id": "g0014",
         "title": "I will design a unique and eye-catching logo",
         "price": 194.61,
         "owner": {
-            "_id": "u0014",
+            "id": "u0014",
             "fullName": "Maressa Gabey",
             "imgUrl": "http://dummyimage.com/242x100.png/ff4444/ffffff",
             "level": "basic",
@@ -360,11 +360,11 @@
         ]
     },
     {
-        "_id": "g0015",
+        "id": "g0015",
         "title": "I will curate a high-quality email list for your business",
         "price": 476.4,
         "owner": {
-            "_id": "u0015",
+            "id": "u0015",
             "fullName": "Kienan Wivell",
             "imgUrl": "http://dummyimage.com/203x100.png/cc0000/ffffff",
             "level": "premium",
@@ -385,11 +385,11 @@
         ]
     },
     {
-        "_id": "g0016",
+        "id": "g0016",
         "title": "I will design a unique and eye-catching logo",
         "price": 242.68,
         "owner": {
-            "_id": "u0016",
+            "id": "u0016",
             "fullName": "Ferrel Sakins",
             "imgUrl": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -412,11 +412,11 @@
         ]
     },
     {
-        "_id": "g0017",
+        "id": "g0017",
         "title": "I will provide a custom logo design service",
         "price": 415.42,
         "owner": {
-            "_id": "u0017",
+            "id": "u0017",
             "fullName": "Kristyn Lawlance",
             "imgUrl": "http://dummyimage.com/132x100.png/ff4444/ffffff",
             "level": "basic",
@@ -438,11 +438,11 @@
         ]
     },
     {
-        "_id": "g0018",
+        "id": "g0018",
         "title": "I will optimize your email list for better engagement",
         "price": 743.44,
         "owner": {
-            "_id": "u0018",
+            "id": "u0018",
             "fullName": "Pierrette Painswick",
             "imgUrl": "http://dummyimage.com/204x100.png/dddddd/000000",
             "level": "basic",
@@ -461,11 +461,11 @@
         ]
     },
     {
-        "_id": "g0019",
+        "id": "g0019",
         "title": "I will develop a professional email marketing campaign",
         "price": 156.56,
         "owner": {
-            "_id": "u0019",
+            "id": "u0019",
             "fullName": "Ariadne Gaggen",
             "imgUrl": "http://dummyimage.com/129x100.png/cc0000/ffffff",
             "level": "basic",
@@ -484,11 +484,11 @@
         ]
     },
     {
-        "_id": "g0020",
+        "id": "g0020",
         "title": "I will optimize your email list for better engagement",
         "price": 997.59,
         "owner": {
-            "_id": "u0020",
+            "id": "u0020",
             "fullName": "Smith Copplestone",
             "imgUrl": "http://dummyimage.com/195x100.png/cc0000/ffffff",
             "level": "basic",
@@ -515,11 +515,11 @@
         ]
     },
     {
-        "_id": "g0021",
+        "id": "g0021",
         "title": "I will develop a professional email marketing campaign",
         "price": 936.92,
         "owner": {
-            "_id": "u0021",
+            "id": "u0021",
             "fullName": "Kaylyn O'Reilly",
             "imgUrl": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -538,11 +538,11 @@
         ]
     },
     {
-        "_id": "g0022",
+        "id": "g0022",
         "title": "I will design a logo that stands out from the competition",
         "price": 146.54,
         "owner": {
-            "_id": "u0022",
+            "id": "u0022",
             "fullName": "Delcine Abramowitch",
             "imgUrl": "http://dummyimage.com/218x100.png/cc0000/ffffff",
             "level": "basic",
@@ -562,11 +562,11 @@
         ]
     },
     {
-        "_id": "g0023",
+        "id": "g0023",
         "title": "I will provide a custom logo design service",
         "price": 830.82,
         "owner": {
-            "_id": "u0023",
+            "id": "u0023",
             "fullName": "Rosene Danbye",
             "imgUrl": "http://dummyimage.com/229x100.png/cc0000/ffffff",
             "level": "premium",
@@ -593,11 +593,11 @@
         ]
     },
     {
-        "_id": "g0024",
+        "id": "g0024",
         "title": "I will design a logo that stands out from the competition",
         "price": 972.37,
         "owner": {
-            "_id": "u0024",
+            "id": "u0024",
             "fullName": "Anett Merkle",
             "imgUrl": "http://dummyimage.com/178x100.png/5fa2dd/ffffff",
             "level": "premium",
@@ -614,11 +614,11 @@
         ]
     },
     {
-        "_id": "g0025",
+        "id": "g0025",
         "title": "I will curate a high-quality email list for your business",
         "price": 995.31,
         "owner": {
-            "_id": "u0025",
+            "id": "u0025",
             "fullName": "Gavrielle Petrak",
             "imgUrl": "http://dummyimage.com/182x100.png/ff4444/ffffff",
             "level": "basic",
@@ -639,11 +639,11 @@
         ]
     },
     {
-        "_id": "g0026",
+        "id": "g0026",
         "title": "I will develop a professional email marketing campaign",
         "price": 17.05,
         "owner": {
-            "_id": "u0026",
+            "id": "u0026",
             "fullName": "Erny McGee",
             "imgUrl": "http://dummyimage.com/149x100.png/cc0000/ffffff",
             "level": "basic",
@@ -671,11 +671,11 @@
         ]
     },
     {
-        "_id": "g0027",
+        "id": "g0027",
         "title": "I will develop a professional email marketing campaign",
         "price": 828.45,
         "owner": {
-            "_id": "u0027",
+            "id": "u0027",
             "fullName": "Rossie Treswell",
             "imgUrl": "http://dummyimage.com/247x100.png/dddddd/000000",
             "level": "basic",
@@ -693,11 +693,11 @@
         ]
     },
     {
-        "_id": "g0028",
+        "id": "g0028",
         "title": "I will design a logo that stands out from the competition",
         "price": 94.56,
         "owner": {
-            "_id": "u0028",
+            "id": "u0028",
             "fullName": "Goldia Mullineux",
             "imgUrl": "http://dummyimage.com/193x100.png/cc0000/ffffff",
             "level": "premium",
@@ -722,11 +722,11 @@
         ]
     },
     {
-        "_id": "g0029",
+        "id": "g0029",
         "title": "I will optimize your email list for better engagement",
         "price": 366.48,
         "owner": {
-            "_id": "u0029",
+            "id": "u0029",
             "fullName": "Parnell Tomczykowski",
             "imgUrl": "http://dummyimage.com/184x100.png/cc0000/ffffff",
             "level": "premium",
@@ -743,11 +743,11 @@
         ]
     },
     {
-        "_id": "g0030",
+        "id": "g0030",
         "title": "I will create a stunning logo design",
         "price": 269.67,
         "owner": {
-            "_id": "u0030",
+            "id": "u0030",
             "fullName": "Audrye Pund",
             "imgUrl": "http://dummyimage.com/125x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -773,11 +773,11 @@
         ]
     },
     {
-        "_id": "g0031",
+        "id": "g0031",
         "title": "I will create a stunning logo design",
         "price": 649.95,
         "owner": {
-            "_id": "u0031",
+            "id": "u0031",
             "fullName": "Nikolia Karet",
             "imgUrl": "http://dummyimage.com/123x100.png/ff4444/ffffff",
             "level": "premium",
@@ -800,11 +800,11 @@
         ]
     },
     {
-        "_id": "g0032",
+        "id": "g0032",
         "title": "I will create a stunning logo design",
         "price": 670.09,
         "owner": {
-            "_id": "u0032",
+            "id": "u0032",
             "fullName": "Collette Pay",
             "imgUrl": "http://dummyimage.com/116x100.png/ff4444/ffffff",
             "level": "premium",
@@ -825,11 +825,11 @@
         ]
     },
     {
-        "_id": "g0033",
+        "id": "g0033",
         "title": "I will create an effective email marketing strategy",
         "price": 759.4,
         "owner": {
-            "_id": "u0033",
+            "id": "u0033",
             "fullName": "Mamie Chart",
             "imgUrl": "http://dummyimage.com/113x100.png/ff4444/ffffff",
             "level": "premium",
@@ -849,11 +849,11 @@
         ]
     },
     {
-        "_id": "g0034",
+        "id": "g0034",
         "title": "I will curate a high-quality email list for your business",
         "price": 189.54,
         "owner": {
-            "_id": "u0034",
+            "id": "u0034",
             "fullName": "Ileana Pawlata",
             "imgUrl": "http://dummyimage.com/115x100.png/ff4444/ffffff",
             "level": "basic",
@@ -878,11 +878,11 @@
         ]
     },
     {
-        "_id": "g0035",
+        "id": "g0035",
         "title": "I will curate a high-quality email list for your business",
         "price": 440.11,
         "owner": {
-            "_id": "u0035",
+            "id": "u0035",
             "fullName": "Ameline Jaxon",
             "imgUrl": "http://dummyimage.com/162x100.png/cc0000/ffffff",
             "level": "basic",
@@ -902,11 +902,11 @@
         ]
     },
     {
-        "_id": "g0036",
+        "id": "g0036",
         "title": "I will curate a high-quality email list for your business",
         "price": 602.33,
         "owner": {
-            "_id": "u0036",
+            "id": "u0036",
             "fullName": "Magdaia Dyster",
             "imgUrl": "http://dummyimage.com/239x100.png/dddddd/000000",
             "level": "basic",
@@ -924,11 +924,11 @@
         ]
     },
     {
-        "_id": "g0037",
+        "id": "g0037",
         "title": "I will create a stunning logo design",
         "price": 538.34,
         "owner": {
-            "_id": "u0037",
+            "id": "u0037",
             "fullName": "Adrea Parncutt",
             "imgUrl": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -948,11 +948,11 @@
         ]
     },
     {
-        "_id": "g0038",
+        "id": "g0038",
         "title": "I will provide a custom logo design service",
         "price": 71.48,
         "owner": {
-            "_id": "u0038",
+            "id": "u0038",
             "fullName": "Kerri Bjerkan",
             "imgUrl": "http://dummyimage.com/141x100.png/5fa2dd/ffffff",
             "level": "basic",
@@ -975,11 +975,11 @@
         ]
     },
     {
-        "_id": "g0039",
+        "id": "g0039",
         "title": "I will optimize your email list for better engagement",
         "price": 883.02,
         "owner": {
-            "_id": "u0039",
+            "id": "u0039",
             "fullName": "Nancee Billo",
             "imgUrl": "http://dummyimage.com/183x100.png/cc0000/ffffff",
             "level": "premium",
@@ -1004,11 +1004,11 @@
         ]
     },
     {
-        "_id": "g0040",
+        "id": "g0040",
         "title": "I will design a unique and eye-catching logo",
         "price": 608.05,
         "owner": {
-            "_id": "u0040",
+            "id": "u0040",
             "fullName": "Prinz Bariball",
             "imgUrl": "http://dummyimage.com/165x100.png/dddddd/000000",
             "level": "premium",
@@ -1029,11 +1029,11 @@
         ]
     },
     {
-        "_id": "g0041",
+        "id": "g0041",
         "title": "I will curate a high-quality email list for your business",
         "price": 605.76,
         "owner": {
-            "_id": "u0041",
+            "id": "u0041",
             "fullName": "Vachel Tarling",
             "imgUrl": "http://dummyimage.com/231x100.png/ff4444/ffffff",
             "level": "premium",
@@ -1059,11 +1059,11 @@
         ]
     },
     {
-        "_id": "g0042",
+        "id": "g0042",
         "title": "I will create a stunning logo design",
         "price": 409.65,
         "owner": {
-            "_id": "u0042",
+            "id": "u0042",
             "fullName": "Nealon Talkington",
             "imgUrl": "http://dummyimage.com/128x100.png/cc0000/ffffff",
             "level": "basic",
@@ -1082,11 +1082,11 @@
         ]
     },
     {
-        "_id": "g0043",
+        "id": "g0043",
         "title": "I will develop a professional email marketing campaign",
         "price": 996.76,
         "owner": {
-            "_id": "u0043",
+            "id": "u0043",
             "fullName": "Reynolds Stithe",
             "imgUrl": "http://dummyimage.com/104x100.png/5fa2dd/ffffff",
             "level": "premium",
@@ -1108,11 +1108,11 @@
         ]
     },
     {
-        "_id": "g0044",
+        "id": "g0044",
         "title": "I will optimize your email list for better engagement",
         "price": 694.74,
         "owner": {
-            "_id": "u0044",
+            "id": "u0044",
             "fullName": "Velvet Davidovici",
             "imgUrl": "http://dummyimage.com/193x100.png/dddddd/000000",
             "level": "premium",
@@ -1134,11 +1134,11 @@
         ]
     },
     {
-        "_id": "g0045",
+        "id": "g0045",
         "title": "I will grow your email list with targeted subscribers",
         "price": 920.82,
         "owner": {
-            "_id": "u0045",
+            "id": "u0045",
             "fullName": "Ferdy Stollery",
             "imgUrl": "http://dummyimage.com/167x100.png/cc0000/ffffff",
             "level": "basic",
@@ -1161,11 +1161,11 @@
         ]
     },
     {
-        "_id": "g0046",
+        "id": "g0046",
         "title": "I will optimize your email list for better engagement",
         "price": 809.45,
         "owner": {
-            "_id": "u0046",
+            "id": "u0046",
             "fullName": "Sammie Twinn",
             "imgUrl": "http://dummyimage.com/164x100.png/dddddd/000000",
             "level": "premium",
@@ -1192,11 +1192,11 @@
         ]
     },
     {
-        "_id": "g0047",
+        "id": "g0047",
         "title": "I will curate a high-quality email list for your business",
         "price": 16.19,
         "owner": {
-            "_id": "u0047",
+            "id": "u0047",
             "fullName": "Row Bohike",
             "imgUrl": "http://dummyimage.com/198x100.png/cc0000/ffffff",
             "level": "premium",
@@ -1218,11 +1218,11 @@
         ]
     },
     {
-        "_id": "g0048",
+        "id": "g0048",
         "title": "I will optimize your email list for better engagement",
         "price": 434.01,
         "owner": {
-            "_id": "u0048",
+            "id": "u0048",
             "fullName": "Britte Whenman",
             "imgUrl": "http://dummyimage.com/171x100.png/ff4444/ffffff",
             "level": "premium",
@@ -1246,11 +1246,11 @@
         ]
     },
     {
-        "_id": "g0049",
+        "id": "g0049",
         "title": "I will design a logo that stands out from the competition",
         "price": 700.92,
         "owner": {
-            "_id": "u0049",
+            "id": "u0049",
             "fullName": "Adelheid Mitchenson",
             "imgUrl": "http://dummyimage.com/152x100.png/cc0000/ffffff",
             "level": "premium",
@@ -1277,11 +1277,11 @@
         ]
     },
     {
-        "_id": "g0050",
+        "id": "g0050",
         "title": "I will optimize your email list for better engagement",
         "price": 978.51,
         "owner": {
-            "_id": "u0050",
+            "id": "u0050",
             "fullName": "Ninnette Crucitti",
             "imgUrl": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
             "level": "premium",
