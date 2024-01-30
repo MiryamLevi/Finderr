@@ -14,10 +14,22 @@
     }
 
     ul {
+        flex-grow: 1;
         display: flex;
         list-style: none;
+        align-items: center;
         li {
+            display: block;
             padding-right: 24px;
+            color: $text_logo_color_light;
+            a{
+                white-space: nowrap
+            }
+            img{
+                border-radius: 50%;
+                width: 30px;
+                height: 30px;
+            }
         }
         li:nth-last-child(-n + 1) {
             padding: 0;

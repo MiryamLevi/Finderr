@@ -1,6 +1,6 @@
 import { combineReducers, compose, legacy_createStore as createStore } from 'redux'
-import { gigReducer } from './reducers/gig.reducer'
 import { userReducer } from './reducers/user.reducer'
+import { gigReducer } from './reducers/gig.reducer'
 
 const rootReducer = combineReducers({
     gigModule: gigReducer,
