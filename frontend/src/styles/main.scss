@@ -10,6 +10,7 @@
 // views
 @import 'views/home';
 @import 'views/gig-edit';
+@import 'views/gig-details';
 
 // cmps 
 @import 'cmps/header';
@@ -19,5 +20,9 @@
 @import 'cmps/hero';
 @import 'cmps/popular';
 @import 'cmps/selling-proposition';
+
+// util
+@import "react-image-gallery/styles/scss/image-gallery.scss";
+
 // @import 'views/header';
 // @import 'views/explore';

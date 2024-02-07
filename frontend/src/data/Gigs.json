@@ -12,7 +12,29 @@
         },
         "daysToMake": 36,
         "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-        "imgUrl": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
+        "imagesUrl": 
+        [
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/9377852/original/7fa1ab489ad31ef89c2f5c7eea6870cadd4fe27d/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/9377852/original/45b0a9df0fe5a9c5020b0593c41f5f8a3b507677/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/9377852/original/e196772f6540fda916fc62229d3a04d0eb197855/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20221030/bruce_logo_design_5_fa54nr.jpg",
+            "https://fiverr-res.cloudinary.com/image/upload/t_gig_pdf_gallery_view_ver4,f_jpg/20221030/bruce_logo_design_4_u16c5j.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ade8a61edce1c02c615197e2a6834afc-1706018528/jessicanehme_2aa/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/781e548e47cadcd319471fb155cbb2ac-1703485147/rmprim2ca/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/c45b72d761ec0d510b11703f0ff3e536-1702744598/lpmania2b/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/69b8bcc51aa446562a9675a035c828eb-1702171002/hanssc30a/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/ab29ba4183d787198ba53d2c5fb4f1b5-1702273493/mandyturner1b/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/8c0dbc3363760b03c90c2f315c97c5d3-1702144356/kenzochuck2/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/031f3a44786b7262501c096ceb7cc488-1701615867/combarrica/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/a87aab32616cc751bd94f34abf72524e-1700317133/tazvisuals2b/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/87b259738c68cbd9c2ded867d1f975e9-1699372008/romerolc2/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/581428554416be6272184cdbb7c22ae9-1699361992/lemarchefka2d/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/d6d81dced0cd8567bf9994e23ac94226-1697520571/carolynfludd_Br4/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/11ac87a4408f2391e4d5259c897fbe42-1698812048/umakam92b/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/f396dcd1e7b7f6759fb36d75c2b4dbcd-1697630072/negri_chris/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/1cdefae85fb42262de4956e7e82873ff-1697464266/madiiie3/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/3e6bdf48ba17fbd226eca741c7a03e76-1696503783/davidlm6b2a/design-an-awesome-vintage-or-retro-logo-88d601db-60fd-43f1-9778-0bd57e615805.jpg"
+        ],
         "tags": [
             "colorful logo",
             "vibrant logo",
@@ -42,7 +64,29 @@
         },
         "daysToMake": 50,
         "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-        "imgUrl": "http://dummyimage.com/120x100.png/cc0000/ffffff",
+        "imagesUrl": 
+        [
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/183907752/original/bf4f2c1f2fcccaf5de7edaf4690ad3df2e39ce40/do-premium-logo-design-within-24-hours-10ec.png",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs2/183907752/original/ff3851ba44b44f9f05b2d48c74d8493835c8a7a6/do-premium-logo-design-within-24-hours-10ec.png",
+            "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs3/183907752/original/2edfb691c99407eb453c442a9d0795409ea25a17/do-premium-logo-design-within-24-hours-10ec.png",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/6c2ee39483d165c0a188e8edae4d6b49-1706635668/sho0281-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/17a88bdf732febf821906ee08236c99e-1706619704/suttonhermann-2/do-premium-logo-design-within-24-hours-10ec.png",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/673ce0e1d54e109cfab48607361d524d-1706590530/ralphkelly%20mo%206-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/b9516c6c19a653eeee13c8a9795a6d60-1706555443/zacharythorvald%202-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/f23be968ef8c1de80601fe2c29597c73-1706547512/gilguillory%20mo-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/448a0da9194e530507c76b7840b148d5-1706526239/bigshow51%202-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/815e0286dd5a435f24da2859fbe48f31-1706500144/mlove614%202%20mo%202-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/d544b89796ae7f33472b2b5a9ffad7d1-1706441514/ethanandersxn/do-premium-logo-design-within-24-hours-10ec.png",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/84e23d419f48f8efed966b58f732b926-1706458050/henrymitchel594-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/3a2fc15300b5a703e15b2d4ecaf86e6e-1706253120/Etsimagery%20%202-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/afe7ab34d3947cf64066b86a5d483ac9-1706000889/Djandyguk%20mo%2084-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/706e1dbe1c00aee3c0113627c5919a52-1705913049/debrashaw%202%20mo%2087-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/5aba842528d5de3fba5235120de52dfc-1705729614/charlieengland0%202%20mo%202-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/b2046251aabf0583c563849da32adb81-1690059332/djuric94%20mo%2081-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/b8ec864fdfc6ecff6fd0927f5f25839d-1689360370/rcbmas%203%20mo%20121-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/a91445fd057736b89be757cf80870b06-1689323052/jrichmann%20oo%202-01/do-premium-logo-design-within-24-hours-10ec.jpg",
+            "https://fiverr-res.cloudinary.com/images/t_smartwm/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/337fdca1030cd8397a9b608dbdbef3e1-1688660984/melissafoley123%20mo%202-01/do-premium-logo-design-within-24-hours-10ec.jpg"
+        ],
         "tags": [
             "elegant logo",
             "abstract logo"
@@ -69,7 +113,7 @@
         },
         "daysToMake": 6,
         "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-        "imgUrl": "http://dummyimage.com/129x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/129x100.png/cc0000/ffffff",
         "tags": [
             "modern logo",
             "colorful logo",
@@ -96,7 +140,7 @@
         },
         "daysToMake": 34,
         "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-        "imgUrl": "http://dummyimage.com/127x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/127x100.png/ff4444/ffffff",
         "tags": [
             "elegant logo",
             "vibrant logo",
@@ -126,7 +170,7 @@
         },
         "daysToMake": 60,
         "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
-        "imgUrl": "http://dummyimage.com/196x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/196x100.png/cc0000/ffffff",
         "tags": [
             "bold logo"
         ],
@@ -149,7 +193,7 @@
         },
         "daysToMake": 56,
         "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-        "imgUrl": "http://dummyimage.com/203x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/203x100.png/ff4444/ffffff",
         "tags": [
             "elegant logo"
         ],
@@ -171,7 +215,7 @@
         },
         "daysToMake": 82,
         "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-        "imgUrl": "http://dummyimage.com/103x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/103x100.png/cc0000/ffffff",
         "tags": [
             "elegant logo",
             "sophisticated logo",
@@ -198,7 +242,7 @@
         },
         "daysToMake": 30,
         "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-        "imgUrl": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
         "tags": [
             "modern logo"
         ],
@@ -222,7 +266,7 @@
         },
         "daysToMake": 54,
         "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-        "imgUrl": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/118x100.png/5fa2dd/ffffff",
         "tags": [
             "elegant logo",
             "bold logo"
@@ -252,7 +296,7 @@
         },
         "daysToMake": 77,
         "description": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
-        "imgUrl": "http://dummyimage.com/180x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/180x100.png/5fa2dd/ffffff",
         "tags": [
             "minimalistic logo"
         ],
@@ -273,7 +317,7 @@
         },
         "daysToMake": 90,
         "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
-        "imgUrl": "http://dummyimage.com/129x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/129x100.png/cc0000/ffffff",
         "tags": [
             "colorful logo",
             "elegant logo",
@@ -296,7 +340,7 @@
         },
         "daysToMake": 97,
         "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-        "imgUrl": "http://dummyimage.com/247x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/247x100.png/ff4444/ffffff",
         "tags": [
             "colorful logo",
             "vibrant logo",
@@ -320,7 +364,7 @@
         },
         "daysToMake": 93,
         "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
-        "imgUrl": "http://dummyimage.com/179x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/179x100.png/dddddd/000000",
         "tags": [
             "creative logo",
             "abstract logo",
@@ -344,7 +388,7 @@
         },
         "daysToMake": 90,
         "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
-        "imgUrl": "http://dummyimage.com/240x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/240x100.png/dddddd/000000",
         "tags": [
             "bold logo",
             "vibrant logo",
@@ -372,7 +416,7 @@
         },
         "daysToMake": 46,
         "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
-        "imgUrl": "http://dummyimage.com/238x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/238x100.png/ff4444/ffffff",
         "tags": [
             "abstract logo",
             "creative logo",
@@ -397,7 +441,7 @@
         },
         "daysToMake": 31,
         "description": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-        "imgUrl": "http://dummyimage.com/165x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/165x100.png/cc0000/ffffff",
         "tags": [
             "elegant logo",
             "modern logo",
@@ -424,7 +468,7 @@
         },
         "daysToMake": 38,
         "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-        "imgUrl": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
         "tags": [
             "creative logo",
             "sophisticated logo"
@@ -450,7 +494,7 @@
         },
         "daysToMake": 84,
         "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-        "imgUrl": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
         "tags": [
             "minimalistic logo",
             "creative logo"
@@ -473,7 +517,7 @@
         },
         "daysToMake": 35,
         "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-        "imgUrl": "http://dummyimage.com/104x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/104x100.png/cc0000/ffffff",
         "tags": [
             "abstract logo",
             "playful logo",
@@ -496,7 +540,7 @@
         },
         "daysToMake": 42,
         "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-        "imgUrl": "http://dummyimage.com/116x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/116x100.png/dddddd/000000",
         "tags": [
             "elegant logo",
             "minimalistic logo",
@@ -527,7 +571,7 @@
         },
         "daysToMake": 61,
         "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
-        "imgUrl": "http://dummyimage.com/202x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/202x100.png/cc0000/ffffff",
         "tags": [
             "playful logo",
             "sophisticated logo"
@@ -550,7 +594,7 @@
         },
         "daysToMake": 72,
         "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
-        "imgUrl": "http://dummyimage.com/144x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/144x100.png/ff4444/ffffff",
         "tags": [
             "bold logo",
             "minimalistic logo",
@@ -574,7 +618,7 @@
         },
         "daysToMake": 51,
         "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-        "imgUrl": "http://dummyimage.com/198x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/198x100.png/dddddd/000000",
         "tags": [
             "playful logo",
             "creative logo",
@@ -605,7 +649,7 @@
         },
         "daysToMake": 40,
         "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
-        "imgUrl": "http://dummyimage.com/191x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/191x100.png/ff4444/ffffff",
         "tags": [
             "sophisticated logo"
         ],
@@ -626,7 +670,7 @@
         },
         "daysToMake": 76,
         "description": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-        "imgUrl": "http://dummyimage.com/136x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/136x100.png/ff4444/ffffff",
         "tags": [
             "vibrant logo",
             "sophisticated logo",
@@ -651,7 +695,7 @@
         },
         "daysToMake": 16,
         "description": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-        "imgUrl": "http://dummyimage.com/165x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/165x100.png/dddddd/000000",
         "tags": [
             "elegant logo",
             "modern logo",
@@ -683,7 +727,7 @@
         },
         "daysToMake": 94,
         "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
-        "imgUrl": "http://dummyimage.com/234x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/234x100.png/5fa2dd/ffffff",
         "tags": [
             "bold logo",
             "abstract logo"
@@ -705,7 +749,7 @@
         },
         "daysToMake": 31,
         "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
-        "imgUrl": "http://dummyimage.com/113x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/113x100.png/dddddd/000000",
         "tags": [
             "sophisticated logo"
         ],
@@ -734,7 +778,7 @@
         },
         "daysToMake": 55,
         "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-        "imgUrl": "http://dummyimage.com/107x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/107x100.png/5fa2dd/ffffff",
         "tags": [
             "vibrant logo"
         ],
@@ -755,7 +799,7 @@
         },
         "daysToMake": 78,
         "description": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
-        "imgUrl": "http://dummyimage.com/152x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/152x100.png/5fa2dd/ffffff",
         "tags": [
             "colorful logo",
             "elegant logo"
@@ -785,7 +829,7 @@
         },
         "daysToMake": 80,
         "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
-        "imgUrl": "http://dummyimage.com/208x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/208x100.png/5fa2dd/ffffff",
         "tags": [
             "modern logo"
         ],
@@ -812,7 +856,7 @@
         },
         "daysToMake": 15,
         "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-        "imgUrl": "http://dummyimage.com/162x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/162x100.png/dddddd/000000",
         "tags": [
             "creative logo",
             "vibrant logo"
@@ -837,7 +881,7 @@
         },
         "daysToMake": 21,
         "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
-        "imgUrl": "http://dummyimage.com/122x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/122x100.png/cc0000/ffffff",
         "tags": [
             "bold logo",
             "vibrant logo"
@@ -861,7 +905,7 @@
         },
         "daysToMake": 85,
         "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
-        "imgUrl": "http://dummyimage.com/233x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/233x100.png/dddddd/000000",
         "tags": [
             "minimalistic logo",
             "colorful logo",
@@ -890,7 +934,7 @@
         },
         "daysToMake": 82,
         "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-        "imgUrl": "http://dummyimage.com/148x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/148x100.png/ff4444/ffffff",
         "tags": [
             "creative logo",
             "abstract logo",
@@ -914,7 +958,7 @@
         },
         "daysToMake": 31,
         "description": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-        "imgUrl": "http://dummyimage.com/168x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/168x100.png/dddddd/000000",
         "tags": [
             "colorful logo",
             "abstract logo"
@@ -936,7 +980,7 @@
         },
         "daysToMake": 74,
         "description": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-        "imgUrl": "http://dummyimage.com/202x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/202x100.png/ff4444/ffffff",
         "tags": [
             "elegant logo",
             "bold logo",
@@ -960,7 +1004,7 @@
         },
         "daysToMake": 15,
         "description": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-        "imgUrl": "http://dummyimage.com/138x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/138x100.png/cc0000/ffffff",
         "tags": [
             "creative logo",
             "playful logo",
@@ -987,7 +1031,7 @@
         },
         "daysToMake": 39,
         "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-        "imgUrl": "http://dummyimage.com/166x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/166x100.png/dddddd/000000",
         "tags": [
             "playful logo",
             "abstract logo"
@@ -1016,7 +1060,7 @@
         },
         "daysToMake": 32,
         "description": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-        "imgUrl": "http://dummyimage.com/152x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/152x100.png/dddddd/000000",
         "tags": [
             "creative logo"
         ],
@@ -1041,7 +1085,7 @@
         },
         "daysToMake": 29,
         "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
-        "imgUrl": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/215x100.png/5fa2dd/ffffff",
         "tags": [
             "modern logo",
             "colorful logo",
@@ -1071,7 +1115,7 @@
         },
         "daysToMake": 1,
         "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-        "imgUrl": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/182x100.png/5fa2dd/ffffff",
         "tags": [
             "colorful logo"
         ],
@@ -1094,7 +1138,7 @@
         },
         "daysToMake": 43,
         "description": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
-        "imgUrl": "http://dummyimage.com/218x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/218x100.png/ff4444/ffffff",
         "tags": [
             "bold logo"
         ],
@@ -1120,7 +1164,7 @@
         },
         "daysToMake": 6,
         "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.\n\nPraesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\n\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-        "imgUrl": "http://dummyimage.com/143x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/143x100.png/cc0000/ffffff",
         "tags": [
             "elegant logo"
         ],
@@ -1146,7 +1190,7 @@
         },
         "daysToMake": 90,
         "description": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
-        "imgUrl": "http://dummyimage.com/230x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/230x100.png/dddddd/000000",
         "tags": [
             "creative logo",
             "minimalistic logo",
@@ -1173,7 +1217,7 @@
         },
         "daysToMake": 94,
         "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
-        "imgUrl": "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
+        "imagesUrl": "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
         "tags": [
             "colorful logo",
             "playful logo",
@@ -1204,7 +1248,7 @@
         },
         "daysToMake": 8,
         "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
-        "imgUrl": "http://dummyimage.com/239x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/239x100.png/cc0000/ffffff",
         "tags": [
             "elegant logo",
             "colorful logo",
@@ -1230,7 +1274,7 @@
         },
         "daysToMake": 19,
         "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-        "imgUrl": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+        "imagesUrl": "http://dummyimage.com/210x100.png/ff4444/ffffff",
         "tags": [
             "bold logo"
         ],
@@ -1258,7 +1302,7 @@
         },
         "daysToMake": 69,
         "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.\n\nPhasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
-        "imgUrl": "http://dummyimage.com/148x100.png/cc0000/ffffff",
+        "imagesUrl": "http://dummyimage.com/148x100.png/cc0000/ffffff",
         "tags": [
             "minimalistic logo",
             "modern logo",
@@ -1289,7 +1333,7 @@
         },
         "daysToMake": 45,
         "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
-        "imgUrl": "http://dummyimage.com/224x100.png/dddddd/000000",
+        "imagesUrl": "http://dummyimage.com/224x100.png/dddddd/000000",
         "tags": [
             "colorful logo",
             "playful logo",

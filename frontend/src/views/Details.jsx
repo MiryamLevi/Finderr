@@ -40,7 +40,7 @@ export function Details() {
           </div>
         </div>
 
-        <GigSlideshowImage></GigSlideshowImage>
+        <GigSlideshowImage  gigId={gigId}/>
         {/* <div className="gig-gallery">
           
         </div> */}
