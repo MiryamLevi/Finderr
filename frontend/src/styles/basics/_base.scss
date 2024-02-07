@@ -15,19 +15,8 @@ button{
 
 .main-app {
     min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-}
-
-.main-app .main-header {
-   height: auto;
-}
-.main-app .main-routes {
-    flex-grow: 1;
-    width: 100%;
-}
-.main-app footer {
-    height: auto;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 .logo{
