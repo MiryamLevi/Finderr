@@ -1,11 +1,23 @@
-import CustomSelect from "../cmps/Explore/CustomSelect";
+import { useEffect } from "react";
+// import CustomSelect from "../cmps/Explore/CustomSelect";
 import { GigList } from "../cmps/GigList";
+import { loadGigs } from "../store/actions/gig.actions";
+import { useSelector } from "react-redux";
 
 export function Explore() {
+
+    const gigs = useSelector((storeState) => storeState.gigModule.gigs)
+  
+  useEffect(() => {
+    loadGigs()
+  },[])
+  
+  
+  if(!gigs) return <section>looding...</section>
   return (
     <div className="explore">
       <h1>Explore Page</h1>
-      <div className="explore-header">
+      {/* <div className="explore-header">
         <button className="clear">Clear Filter</button>
         <CustomSelect />
         <select className="order-delivery-time">
@@ -18,7 +30,7 @@ export function Explore() {
         </select>
         <div className="pro-switch">Pro services</div>
         <div className="online-sellers-switch">Online sellers</div>
-      </div>
+      </div> */}
       <div className="explore-main">
         <p>37 Services available</p>
         <label>
@@ -28,7 +40,7 @@ export function Explore() {
             <option value="level">Seller Level</option>
           </select>
         </label>
-        <GigList/>
+        <GigList gigs={gigs}/>
         <div className="pages">
           <button>&lt;</button>
           <button>1</button>

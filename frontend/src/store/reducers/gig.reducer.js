@@ -1,4 +1,3 @@
-import { gigService } from "../../services/gig.service";
 
 export const SET_GIGS = 'SET_GIGS'
 export const ADD_GIG = 'ADD_GIG'
@@ -44,7 +43,7 @@ export function gigReducer(state = initialState, action = {}) {
                 ...state,
                 filterBy: { ...action.filterBy }
             }
-        case 'SET_IS_LOADING':
+        case SET_IS_LOADING:
             return {
                 ...state,
                 isLoading: action.isLoading

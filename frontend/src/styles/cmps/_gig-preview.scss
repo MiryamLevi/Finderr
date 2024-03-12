@@ -1,0 +1,32 @@
+.gig-card{
+    min-width: 245px;
+    .img-gig{
+        border: $border-package-1;
+        border-radius: 8px;
+        height: 60%;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+    .owner-details{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 12px;
+
+        .owner-name{
+            display: flex;
+            align-items: center;
+            column-gap: 8px;
+
+            img{
+                height: 24px;
+                width: 24px;
+                object-fit: cover;
+                border-radius: 50%;
+            }
+        }
+    }
+}

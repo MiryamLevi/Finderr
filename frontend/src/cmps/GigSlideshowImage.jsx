@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import ImageGallery from "react-image-gallery";
+// import ImageGallery from "react-image-gallery";
 
 export const GigSlideshowImage = ({ gigId }) => {
     const [images, setImages] = useState(null)

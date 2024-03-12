@@ -15,18 +15,18 @@ const STORAGE_KEY = 'gigs'
 
 _createGigs()
 
-async function query(filterBy) {
+async function query() {
     let gigs = await storageService.query(STORAGE_KEY)
-    if (filterBy) {
-        let { minBatteryStatus, model = '', type = '' } = filterBy
-        minBatteryStatus = minBatteryStatus || 0
-        const regexModelTerm = new RegExp(model, 'i')
-        gigs = gigs.filter(gig =>
-            regexModelTerm.test(gig.model) &&
-            gig.batteryStatus > minBatteryStatus &&
-            (!type || type === gig.type)
-        )
-    }
+    // if (filterBy) {
+    //     let { minBatteryStatus, model = '', type = '' } = filterBy
+    //     minBatteryStatus = minBatteryStatus || 0
+    //     const regexModelTerm = new RegExp(model, 'i')
+    //     gigs = gigs.filter(gig =>
+    //         regexModelTerm.test(gig.model) &&
+    //         gig.batteryStatus > minBatteryStatus &&
+    //         (!type || type === gig.type)
+    //     )
+    // }
     return gigs
 }
 

@@ -1,3 +1,54 @@
-.gig-edit{
-   margin-top: 180px;
+.gig-edit {
+
+   form {
+      .tab-content-container {
+         width: 988px;
+         margin: 30px auto 0;
+         padding-top: 50px;
+      }
+      .gig-edit-container {
+         width: 835px;
+         padding: 28px;
+         border: $border-package-2;
+         border-radius: 5px 5px 0 0;
+         span{
+            font-size: 20px;
+         }
+      }
+
+      .input-label{
+         padding-right: 32px;
+         width: 242px;
+      }
+
+      .form-input-group{
+         display: flex;
+         align-items: flex-start;
+         padding-bottom: 32px;
+      }
+
+      .textarea-titel{
+         flex-grow: 1;
+         
+         textarea{
+            width: 100%;
+            height: 82px;
+            border: $border-package-2;
+            border-radius: 8px;
+            padding: 9px 16px;
+            outline: 0;
+            &:hover{
+               border: 1px solid #95979d;
+            }
+            &:focus{
+               border: 1px solid #222325;
+            }
+            ::placeholder{
+               color: #dadbdd;
+            }
+         }
+      }
+
+
+   }
 }
